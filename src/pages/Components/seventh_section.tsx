@@ -52,7 +52,7 @@ const SeventhSection = () => {
         <div className="sm:ml-[3%] md:ml-[2%] sm:flex sm:flex-col sm:justify-between sm:w-full">
           <div className="sm:flex sm:justify-between">
             <p className="mt-6 text-[22px] font-semibold group-hover:underline sm:mt-0 sm:w-[85%] lg:text-4xl lg:w-[70%]">
-              THE FUTURE OF FASHION AND AI AT GLOSSY'S ECOMMERCE SUMMIT
+              THE FUTURE OF FASHION AND AI AT GLOSSYS ECOMMERCE SUMMIT
             </p>
               <IoMdArrowForward className="hidden sm:block sm:text-4xl lg:text-5xl" />
           </div>
@@ -77,7 +77,7 @@ const SeventhSection = () => {
         <div className="sm:ml-[3%] md:ml-[2%] sm:flex sm:flex-col sm:justify-between sm:w-full">
           <div className="sm:flex sm:justify-between">
             <p className="mt-6 text-[22px] font-semibold group-hover:underline sm:mt-0 sm:w-[85%] lg:text-4xl lg:w-[70%]">
-              RETAIL'S NEW PLAYGROUND: WHERE PHYSICAL MEETS DIGITAL
+              RETAILS NEW PLAYGROUND: WHERE PHYSICAL MEETS DIGITAL
             </p>
               <IoMdArrowForward className="hidden sm:block sm:text-4xl lg:text-5xl" />
           </div>
@@ -253,7 +253,7 @@ const SeventhSection = () => {
         <div className="sm:ml-[3%] md:ml-[2%] sm:flex sm:flex-col sm:justify-between sm:w-full">
           <div className="sm:flex sm:justify-between">
             <p className="mt-6 text-[22px] font-semibold group-hover:underline sm:mt-0 sm:w-[85%] lg:text-4xl lg:w-[70%]">
-              WHY A GOOD CUSTOMER EXPERIENCE ISN'T ENOUGH
+              WHY A GOOD CUSTOMER EXPERIENCE ISNT ENOUGH
             </p>
               <IoMdArrowForward className="hidden sm:block sm:text-4xl lg:text-5xl" />
           </div>

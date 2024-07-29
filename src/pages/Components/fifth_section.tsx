@@ -14,7 +14,7 @@ const FifthSection = () => {
           />
           <h2 className="w-80 text-xl font-semibold lg:text-[22px] lg:font-bold lg:mt-8">GOOGLE</h2>
           <p className="w-full text-sm mt-4 text-gray-800 lg:text-lg lg:font-semibold lg:mt-6">
-            Our embedded partnership with Google is as deep as it gets. We're
+            Our embedded partnership with Google is as deep as it gets. Were
             the lead creative agency for Google Store and provide strategy,
             design and prototyping to other divisions. Learn more about our
             partnership here.
@@ -31,7 +31,7 @@ const FifthSection = () => {
           <p className="w-full text-sm mt-4 text-gray-800 lg:text-lg lg:font-semibold lg:mt-6">
             An award-winning global, digital transformation engagement spanning
             eCommerce, mobile app, and new drive thru experiences. Bringing
-            KFC's brand story to life while making it easier for customers to
+            KFCs brand story to life while making it easier for customers to
             buy chicken. Learn more about our partnership here.
           </p>
         </div>
@@ -44,9 +44,9 @@ const FifthSection = () => {
           />
           <h2 className="w-80 text-xl font-semibold lg:text-[22px] lg:font-bold lg:mt-8">WILSON</h2>
           <p className="w-full text-sm mt-4 text-gray-800 lg:text-lg lg:font-semibold lg:mt-6">
-            A reimagining of Wilson's brand visual identity, and brand campaign,
+            A reimagining of Wilsons brand visual identity, and brand campaign,
             to support a new product drop and the launch of the first brick and
-            mortar retail location in the brand's 108-year history. Read our
+            mortar retail location in the brands 108-year history. Read our
             full case study here.
           </p>
         </div>
