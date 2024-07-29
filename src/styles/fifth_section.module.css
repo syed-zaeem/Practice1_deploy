@@ -1,0 +1,35 @@
+/* .hide_scroll_bar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide_scroll_bar::-webkit-scrollbar {
+  display: none;
+} */
+
+.custom_scrollbar {
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: black rgb(195, 194, 194); /* Firefox */
+}
+
+.custom_scrollbar::-webkit-scrollbar {
+  width: 1px;
+  height: 1px;
+}
+
+.custom_scrollbar::-webkit-scrollbar-track {
+  background: rgb(202, 201, 201);
+}
+
+.custom_scrollbar::-webkit-scrollbar-thumb {
+  background: black;
+}
+
+.custom_scrollbar::-webkit-scrollbar-thumb:hover {
+  background: black;
+}
+
+.custom_scrollbar::-webkit-scrollbar-button {
+  display: none;
+}
+

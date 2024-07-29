@@ -1,0 +1,29 @@
+
+.required_button {
+    position: relative;
+    overflow: hidden;
+    background-color: transparent;
+    transition: color 0.4s;
+    z-index: 0;
+}
+
+.required_button::after {
+  content: "";
+  position: absolute;
+  left: -2px;
+  /* bottom: 0; */
+  width: 200px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.809);
+  z-index: -1;
+  transform: translateY(30px);
+  transition: transform 0.4s;
+}
+
+.required_button:hover::after {
+  transform: translateY(-12px);
+}
+
+.required_button:hover {
+  color: white;
+}
